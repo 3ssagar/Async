@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Async</string>
+    <string name="do_task">Do task</string>
+    <string name="placeholder">Placeholder</string>
+</resources>
